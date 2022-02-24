@@ -1,2 +1,3 @@
-# Auto-Villager
-Minecraft mod that adds trading automation for villagers
+#Auto Villager
+
+Auto Villager is a simple mod that adds quick trading automation with villagers.
